@@ -7,4 +7,4 @@ For the Paint file:
   - "Control + Z" to undo
 
 
-You can change your color, to the desired colors and you are also capable of changing the size of the brush
+You can change your color, to the desired color and you are also capable of changing the size of the brush
