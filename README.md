@@ -1,4 +1,4 @@
-# Working-applications-
+# Paint
 My fully executable projects
 
 For the Paint file:
